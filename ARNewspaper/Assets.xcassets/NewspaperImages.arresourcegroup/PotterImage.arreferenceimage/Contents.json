@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "PotterImage.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 11.60145
+  }
+}
